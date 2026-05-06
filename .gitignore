@@ -1,0 +1,11 @@
+# Environments
+venv/
+.env
+
+# Qdrant Local Database
+qdrant_local_data/
+Lectures/
+
+# Python Cache
+__pycache__/
+*.pyc
